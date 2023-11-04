@@ -1,3 +1,5 @@
 flask
 tensorflow
 gunicorn
+google-api-python-client==2.5.0
+
